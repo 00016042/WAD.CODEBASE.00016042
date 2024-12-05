@@ -1,0 +1,21 @@
+<div class="delete-container">
+    <h1>Delete Post</h1>
+  
+    <div *ngIf="error" class="error-message">
+      <p>{{ error }}</p>
+    </div>
+  
+    <div *ngIf="post" class="post-info">
+      <h2>{{ post.title }}</h2>
+      <p><strong>Content:</strong> {{ post.content }}</p>
+      <p><strong>Category ID:</strong> {{ post.categoryId }}</p>
+  
+      <div class="actions">
+        <button mat-raised-button color="primary" (click)="goBack()">Back to Posts</button>
+        <button mat-raised-button color="warn" (click)="onDelete(post.id)">Delete Post</button>
+      </div>
+    </div>
+  
+    <p *ngIf="!post && !error">Loading post details...</p>
+  </div>
+  

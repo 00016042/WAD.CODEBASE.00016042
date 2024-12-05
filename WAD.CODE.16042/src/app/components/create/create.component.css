@@ -1,0 +1,85 @@
+/* Container styling */
+.create-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styling */
+  .create-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Form and form controls */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 1.1rem;
+    color: #2c3e50;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    height: 150px;
+  }
+  
+  /* Error message styling */
+  .error-message {
+    color: #e74c3c;
+    font-size: 0.9rem;
+    margin-top: 5px;
+  }
+  
+  /* Button styling */
+  .form-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+  
+  button.mat-raised-button {
+    text-transform: uppercase;
+  }
+  
+  button.mat-raised-button[color='primary'] {
+    background-color: #3498db;  /* Blue color for create button */
+    color: #fff;
+  }
+  
+  button.mat-raised-button[color='primary']:hover {
+    background-color: #2980b9;  /* Darker blue when hovering */
+  }
+  
+  button.mat-raised-button[color='accent'] {
+    background-color: #2ecc71;  /* Green color for back to posts button */
+    color: #fff;
+  }
+  
+  button.mat-raised-button[color='accent']:hover {
+    background-color: #27ae60;  /* Darker green when hovering */
+  }
+  

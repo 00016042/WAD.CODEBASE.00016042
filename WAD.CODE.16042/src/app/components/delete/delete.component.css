@@ -1,0 +1,96 @@
+/* Overall container styling */
+.delete-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styling */
+  .delete-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Error message styling */
+  .error-message {
+    color: #e74c3c;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Post information styling */
+  .post-info {
+    text-align: center;
+  }
+  
+  .post-info h2 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .post-info p {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    margin: 10px 0;
+  }
+  
+  .post-info strong {
+    font-weight: bold;
+  }
+  
+  /* Button styling */
+  .actions {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  /* Button hover effects */
+  button:hover {
+    transform: scale(1.05);
+  }
+  
+  button.mat-raised-button {
+    text-transform: uppercase;
+  }
+  
+  button.mat-raised-button[color='warn'] {
+    background-color: #e74c3c;  /* Red color for delete button */
+    color: #fff;
+  }
+  
+  button.mat-raised-button[color='warn']:hover {
+    background-color: #c0392b;  /* Darker red when hovering */
+  }
+  
+  button.mat-raised-button[color='primary'] {
+    background-color: #3498db;  /* Blue color for back to posts button */
+    color: #fff;
+  }
+  
+  button.mat-raised-button[color='primary']:hover {
+    background-color: #2980b9;  /* Darker blue when hovering */
+  }
+  
+  /* Loading state */
+  p {
+    font-size: 1.1rem;
+    text-align: center;
+    color: #7f8c8d;
+  }
+  

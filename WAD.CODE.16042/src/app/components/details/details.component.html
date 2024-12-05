@@ -1,0 +1,21 @@
+<div class="details-container">
+    <h1>Post Details</h1>
+  
+    <div *ngIf="post; else loadingOrError">
+      <div class="post-info">
+        <h2>{{ post.title }}</h2>
+        <p><strong>Content:</strong> {{ post.content }}</p>
+        <p><strong>Category:</strong> {{ category }}</p>
+      </div>
+  
+      <div class="actions">
+        <button mat-raised-button color="primary" (click)="goBack()">Back to Posts</button>
+      </div>
+    </div>
+  
+    <ng-template #loadingOrError>
+      <p *ngIf="error">{{ error }}</p>
+      <p *ngIf="!error">Loading post details...</p>
+    </ng-template>
+  </div>
+  

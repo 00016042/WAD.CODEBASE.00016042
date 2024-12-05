@@ -1,0 +1,39 @@
+<div class="container mt-5">
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="text-primary">Manage Posts</h1>
+    <button class="btn btn-success btn-lg" (click)="onCreate()">+ Create New Post</button>
+    <button mat-raised-button color="accent" class="create-category-button" (click)="onCreateCategory()">Create Category</button>
+  </div>
+
+  <div class="table-responsive shadow-lg rounded">
+    <table class="table table-striped table-hover align-middle">
+      <!-- Table Head -->
+      <thead class="table-dark">
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">Title</th>
+          <th scope="col">Content</th>
+          <th scope="col">Category ID</th>
+          <th scope="col">Actions</th>
+        </tr>
+      </thead>
+
+      <!-- Table Body -->
+      <tbody>
+        <tr *ngFor="let post of posts">
+          <td>{{ post.id }}</td>
+          <td>{{ post.title }}</td>
+          <td>{{ post.content }}</td>
+          <td>{{ post.categoryId }}</td>
+          <td>
+            <div class="btn-group">
+              <button class="btn btn-info btn-sm" (click)="onDetails(post.id)">Details</button>
+              <button class="btn btn-warning btn-sm" (click)="onEdit(post.id)">Edit</button>
+              <button class="btn btn-danger btn-sm" (click)="onDelete(post.id)">Delete</button>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
