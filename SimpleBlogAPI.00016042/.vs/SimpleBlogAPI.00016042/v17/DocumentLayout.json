@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|c:\\users\\user\\desktop\\simpleblogapi.00016042\\simpleblogapi.00016042\\simpleblogapi.00016042\\migrations\\20241204100248_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|c:\\users\\user\\desktop\\wad.codebase.00016042\\simpleblogapi.00016042\\simpleblogapi.00016042\\migrations\\20241204100248_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|solutionrelative:simpleblogapi.00016042\\migrations\\20241204100248_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\simpleblogapi.00016042\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\simpleblogapi.00016042\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|solutionrelative:simpleblogapi.00016042\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\simpleblogapi.00016042\\simpleblogapi.00016042.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\simpleblogapi.00016042\\simpleblogapi.00016042.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{BAAEF625-EFF8-426E-8850-91DB0C39113F}|SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj|solutionrelative:simpleblogapi.00016042\\simpleblogapi.00016042.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20241204100248_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Migrations\\20241204100248_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Migrations\\20241204100248_InitialCreate.cs",
               "RelativeDocumentMoniker": "SimpleBlogAPI.00016042\\Migrations\\20241204100248_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Migrations\\20241204100248_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Migrations\\20241204100248_InitialCreate.cs",
               "RelativeToolTip": "SimpleBlogAPI.00016042\\Migrations\\20241204100248_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "SimpleBlogAPI.00016042\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "SimpleBlogAPI.00016042\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SimpleBlogAPI.00016042",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
               "RelativeDocumentMoniker": "SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
               "RelativeToolTip": "SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-04T09:48:54.104Z"

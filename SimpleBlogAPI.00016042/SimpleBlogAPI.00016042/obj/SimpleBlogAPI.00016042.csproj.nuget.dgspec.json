@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj": {}
+    "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj": {
+    "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
         "projectName": "SimpleBlogAPI.00016042",
-        "projectPath": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\WAD.CODEBASE.00016042\\SimpleBlogAPI.00016042\\SimpleBlogAPI.00016042\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
